@@ -10,6 +10,7 @@ LINK: https://github.com/Nexx74/Valk.py/releases/tag/2.0
 
 
 ```
+* [CLICK ME](https://github.com/Nexx74/Valk.py/releases/tag/2.0)
 
 # python-selfbot
 Selfbot with Python Script
